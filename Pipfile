@@ -1,0 +1,34 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+torch = "*"
+torchvision = "*"
+torchviz = "*"
+graphviz = "*"
+tqdm = "*"
+pandas = "*"
+matplotlib = "*"
+wandb = "*"
+plotly = "*"
+cycler = "*"
+tabulate = "*"
+scipy = "*"
+pywavelets = "*"
+tensorflow = "*"
+keras = "*"
+xlrd = "*"
+baselinewanderremoval = "*"
+jupyterlab = "*"
+flask = "*"
+flask-cors = "*"
+openpyxl = "*"
+ica = "*"
+rdp = "*"
+
+[requires]
+python_version = "3.6"
