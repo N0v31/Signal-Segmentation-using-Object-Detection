@@ -1,5 +1,4 @@
-# PQRST Segmentation using RetinaNet1D
-## Data preprocessing
+# Signal Segmentation using Object Detection
 ### Training
 Because training data have some missing labels, those missing labels' data are removed during training.
 Currently there is no data preprocessing on training data. But there are some options available:
